@@ -1,0 +1,29 @@
+.titulo1{
+    color: white;
+    padding: 3rem 0;
+    text-align: center;
+  
+    text-transform: uppercase;
+}
+
+.titulo2{
+    color: white;
+  padding: 3rem 0;
+  margin-left: 25%;
+  margin-top: 1%;
+  text-transform: uppercase;
+
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
+
+.titulo3{
+    color: white;
+  padding: 3rem 0;
+  margin-left: 55%;
+  margin-top: 1%;
+  text-transform: uppercase;
+
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+}
