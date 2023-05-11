@@ -2,6 +2,7 @@
     color: white;
     padding: 3rem 0;
     text-align: center;
+    margin-bottom: 0%;
   
     text-transform: uppercase;
 }
@@ -9,8 +10,8 @@
 .titulo2{
     color: white;
   padding: 3rem 0;
-  margin-left: 25%;
-  margin-top: 1%;
+  margin-left: 30%;
+  margin-bottom: 1%;
   text-transform: uppercase;
 
   font-family: 'Staatliches', cursive;
@@ -20,7 +21,7 @@
 .titulo3{
     color: white;
   padding: 3rem 0;
-  margin-left: 55%;
+  margin-left: 56%;
   margin-top: 1%;
   text-transform: uppercase;
 

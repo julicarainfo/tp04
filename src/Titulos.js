@@ -1,13 +1,12 @@
 import './Titulos.css';
-
-function Titulos() {
+import React from 'react';
+function Titulos(type = "", text = "") {
   return (
-    <div className="Titulos">
-      <h1 className="titulo1">Administrador de Pacientes</h1>
-      <h2 className="titulo2">Crear mi cita</h2>
-      <h2 className="titulo3">Administrar tus cita</h2>  
-    </div>
-  );
+    <>
+      {
+        type === "h1" ? <h1>{text}</h1> : <h2>{text}</h2>
+      }
+    </>);
 }
 
 export default Titulos;
